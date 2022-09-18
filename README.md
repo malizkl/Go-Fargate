@@ -2,7 +2,6 @@
 
 <img src="https://d1.awsstatic.com/product-page-diagram_Amazon-ECS%402x.0d872eb6fb782ddc733a27d2bb9db795fed71185.png">
 
-Watch video on Youtube.(https://www.youtube.com/watch?v=yefgBi9j0w0&t=384s)
 
 
 ## Pre-Requirements
@@ -134,3 +133,7 @@ After created cluster, we can create our service.
 * Click create service.
 * After created service, task is running and it gives us a public IP.
 * Paste the IP address to your browser, you will see the app we created.
+
+## Watch video on Youtube.
+(https://www.youtube.com/watch?v=yefgBi9j0w0&t=384s)
+
