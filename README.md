@@ -1,6 +1,7 @@
 # Deploy a Serverless Golang App to AWS Fargate
 
-https://d1.awsstatic.com/product-page-diagram_Amazon-ECS%402x.0d872eb6fb782ddc733a27d2bb9db795fed71185.png
+<img src="https://d1.awsstatic.com/product-page-diagram_Amazon-ECS%402x.0d872eb6fb782ddc733a27d2bb9db795fed71185.png">
+
 
 
 ## Pre-Requirements
