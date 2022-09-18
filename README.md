@@ -2,6 +2,7 @@
 
 <img src="https://d1.awsstatic.com/product-page-diagram_Amazon-ECS%402x.0d872eb6fb782ddc733a27d2bb9db795fed71185.png">
 
+Watch video on Youtube.(https://www.youtube.com/watch?v=yefgBi9j0w0&t=384s)
 
 
 ## Pre-Requirements
